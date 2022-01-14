@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Alive
+  - HealthPotion
+  - BombCollect
+  - Coins
+  - Ghost
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - InteractObjects
+  - Enemy
+  - Ground
+  - Ghost
+  - Boss
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2367619829
+    locked: 0
+  - name: Objects
+    uniqueID: 1590264253
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Enemy&Player
+    uniqueID: 2585799677
+    locked: 0
+  - name: InteractObjects
+    uniqueID: 2446260987
+    locked: 0
+  - name: Water
+    uniqueID: 1366046719
+    locked: 0

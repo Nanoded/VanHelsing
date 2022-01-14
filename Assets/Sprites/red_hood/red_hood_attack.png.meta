@@ -1,0 +1,471 @@
+fileFormatVersion: 2
+guid: 3b0dd04d2a81cef48aea360514ead484
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6943359899828810187
+    second: red_hood_attack_9
+  - first:
+      213: 6807834128866863100
+    second: red_hood_attack_10
+  - first:
+      213: 3203757610296972822
+    second: red_hood_attack_11
+  - first:
+      213: -2034975633060650227
+    second: red_hood_attack_12
+  - first:
+      213: -446884211258096071
+    second: red_hood_attack_13
+  - first:
+      213: -6237127362819188221
+    second: red_hood_attack_14
+  - first:
+      213: 5497544434174879047
+    second: red_hood_attack_15
+  - first:
+      213: 4316414199189389448
+    second: red_hood_attack_16
+  - first:
+      213: -8805935369262371442
+    second: red_hood_attack_17
+  - first:
+      213: 5771256858875135065
+    second: red_hood_attack_18
+  - first:
+      213: -6303446717956484466
+    second: red_hood_attack_19
+  - first:
+      213: 3100330350391963537
+    second: red_hood_attack_20
+  - first:
+      213: 7189946970339453965
+    second: red_hood_attack_21
+  - first:
+      213: 6561909383477713408
+    second: red_hood_attack_22
+  - first:
+      213: -1041371196439968730
+    second: red_hood_attack_23
+  - first:
+      213: -8238250201457017927
+    second: red_hood_attack_24
+  - first:
+      213: -6526964693437396790
+    second: red_hood_attack_25
+  - first:
+      213: 8679872654968451021
+    second: red_hood_attack_26
+  - first:
+      213: 3208554430280444066
+    second: red_hood_attack_27
+  - first:
+      213: -695152123459900489
+    second: red_hood_attack_28
+  - first:
+      213: -7615548983794026598
+    second: red_hood_attack_29
+  - first:
+      213: 5126958904145865927
+    second: red_hood_attack_30
+  - first:
+      213: -1044785165343207883
+    second: red_hood_attack_31
+  - first:
+      213: -9016192568453110360
+    second: red_hood_attack_32
+  - first:
+      213: -7334695123682445464
+    second: red_hood_attack_33
+  - first:
+      213: -1411788668486253370
+    second: red_hood_attack_34
+  - first:
+      213: -200043121448223832
+    second: red_hood_attack_35
+  - first:
+      213: -3262295296339683824
+    second: red_hood_attack_36
+  - first:
+      213: 6296123645212402304
+    second: red_hood_attack_37
+  - first:
+      213: -7833484870306292216
+    second: red_hood_attack_38
+  - first:
+      213: -1992882559211819847
+    second: red_hood_attack_39
+  - first:
+      213: -4248504158398546178
+    second: red_hood_attack_40
+  - first:
+      213: -333712179786932237
+    second: red_hood_attack_41
+  - first:
+      213: -706587816095688350
+    second: red_hood_attack_42
+  - first:
+      213: -7463678061491252265
+    second: red_hood_attack_43
+  - first:
+      213: -96122446554359480
+    second: red_hood_attack_44
+  - first:
+      213: -5256470076681910377
+    second: red_hood_attack_45
+  - first:
+      213: 1224010062289639032
+    second: red_hood_attack_46
+  - first:
+      213: 9007963341340573756
+    second: red_hood_attack_47
+  - first:
+      213: 1574129501042051303
+    second: red_hood_attack_48
+  - first:
+      213: -3370327176084013513
+    second: red_hood_attack_49
+  - first:
+      213: 8268759011708730351
+    second: red_hood_attack_50
+  - first:
+      213: -8167237041354759540
+    second: red_hood_attack_51
+  - first:
+      213: -7379767134070647204
+    second: red_hood_attack_52
+  - first:
+      213: 3408680496071798093
+    second: red_hood_attack_53
+  - first:
+      213: -4320936399859753038
+    second: red_hood_attack_54
+  - first:
+      213: -6627471067855588561
+    second: red_hood_attack_55
+  - first:
+      213: -6169820379581369379
+    second: red_hood_attack_56
+  - first:
+      213: 3534207837958873745
+    second: red_hood_attack_57
+  - first:
+      213: 2873694201869416102
+    second: red_hood_attack_58
+  - first:
+      213: -5821517488732031432
+    second: red_hood_attack_59
+  - first:
+      213: 3110234306843427572
+    second: red_hood_attack_60
+  - first:
+      213: 7796551555789811796
+    second: red_hood_attack_61
+  - first:
+      213: -6369435421794858731
+    second: red_hood_attack_62
+  - first:
+      213: -2354627005029512470
+    second: red_hood_attack_63
+  - first:
+      213: -3089371638293209606
+    second: red_hood_attack_64
+  - first:
+      213: 3095666479311947590
+    second: red_hood_attack_65
+  - first:
+      213: -7490841954437493272
+    second: red_hood_attack_66
+  - first:
+      213: -4920136834873404715
+    second: red_hood_attack_67
+  - first:
+      213: 613827351953650140
+    second: red_hood_attack_68
+  - first:
+      213: -1417207634398713922
+    second: red_hood_attack_69
+  - first:
+      213: -2704402285943924420
+    second: red_hood_attack_70
+  - first:
+      213: -2407099649133808009
+    second: red_hood_attack_71
+  - first:
+      213: 6330295554773545133
+    second: red_hood_attack_72
+  - first:
+      213: 3312921742386252242
+    second: red_hood_attack_0
+  - first:
+      213: -3522627560305687829
+    second: red_hood_attack_1
+  - first:
+      213: -5918287316989031281
+    second: red_hood_attack_2
+  - first:
+      213: -4831294639967655507
+    second: red_hood_attack_3
+  - first:
+      213: -989093146034634683
+    second: red_hood_attack_4
+  - first:
+      213: 1357464276183608035
+    second: red_hood_attack_5
+  - first:
+      213: -3833460344140206279
+    second: red_hood_attack_6
+  - first:
+      213: 8853864594907380301
+    second: red_hood_attack_7
+  - first:
+      213: 2045445281330671620
+    second: red_hood_attack_8
+  - first:
+      213: 7607023830281560755
+    second: red_hood_attack_73
+  - first:
+      213: -3703636434336459120
+    second: red_hood_attack_74
+  - first:
+      213: -5261386242512025615
+    second: red_hood_attack_75
+  - first:
+      213: -2695330684647585489
+    second: red_hood_attack_76
+  - first:
+      213: 5226513990220889337
+    second: red_hood_attack_77
+  - first:
+      213: -6802393407509301627
+    second: red_hood_attack_78
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: red_hood_attack_72
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 34
+        width: 18
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0f289844ab9d750800000000000000
+      internalID: 6330295554773545133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_hood_attack_73
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 35
+        width: 26
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b22dd1bed3919960800000000000000
+      internalID: 7607023830281560755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_hood_attack_74
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 36
+        width: 22
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0965e22294a0a9cc0800000000000000
+      internalID: -3703636434336459120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_hood_attack_75
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 36
+        width: 22
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f781f4a61dcbf6b0800000000000000
+      internalID: -5261386242512025615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_hood_attack_76
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 37
+        width: 22
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29ce55d503489ad0800000000000000
+      internalID: -2695330684647585489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_hood_attack_77
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 38
+        width: 22
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcb9b868ce488840800000000000000
+      internalID: 5226513990220889337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
